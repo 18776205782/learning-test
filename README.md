@@ -22,9 +22,9 @@
 ---
 
 ## 技术栈
-![git]
-![github]
-![markdown]
+![git]()
+![github]()
+![markdown]()
 
 ---
 
@@ -32,5 +32,6 @@
 * **email**: 1019745861@qq.com, c50331290@gmail.com
 * **QQ**: 1019745861
 * **phone number**: 18776205782
+
 
 
