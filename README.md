@@ -13,11 +13,24 @@
 - []jenkins
 - []linux
 - []jmeter
+---
+
+## 笔记导航
+* [link1]()
+* [link2]()
+* [link3]()
+---
+
+## 技术栈
+![git]
+![github]
+![markdown]
 
 ---
 
-##联系方式
+## 联系方式
 * **email**: 1019745861@qq.com, c50331290@gmail.com
 * **QQ**: 1019745861
 * **phone number**: 18776205782
+
 
