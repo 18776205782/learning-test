@@ -4,12 +4,12 @@
 ---
 
 ## 学习进度条
-- [√]python基本和进阶
-- [√]pytest主要用法
-- [√]web自动化，selenium
-- [√]接口测试，postman, request
-- [√]mysql基础操作
-- [√]github基础操作
+- [x]python基本和进阶
+- [x]pytest主要用法
+- [x]web自动化，selenium
+- [x]接口测试，postman, request
+- [x]mysql基础操作
+- [x]github基础操作
 - []jenkins
 - []linux
 - []jmeter
@@ -29,9 +29,10 @@
 ---
 
 ## 联系方式
-* **email**: 1019745861@qq.com, c50331290@gmail.com
+* **email**: mare.yuan@foxmail.com, c50331290@gmail.com
 * **QQ**: 1019745861
 * **phone number**: 18776205782
+
 
 
 
